@@ -20,7 +20,7 @@ module.exports = {
 Replace the dark sky secret key in keys.js file before processing to these steps.
 
 ```command
-$ cd weather-app
+$ cd weather-app-node.js
 $ npm install
 $ node app.js
 ```
