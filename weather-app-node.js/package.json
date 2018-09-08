@@ -1,0 +1,21 @@
+{
+  "name": "weather-api-using-node.js",
+  "version": "1.0.0",
+  "description": "A weather app based on google's geo-location API and Dark Sky API to fetch real time data. Enter the location and the app will automatically fetch the coordinates of the location and request the data from Dark Sky Net. The app has been deployed to Heroku and Microsoft Azure platform",
+  "main": "app.js",
+  "engines": {
+    "node" : "10.8.0",
+    "npm" : "6.4.1"
+  },
+  "scripts": {
+    "start" : "node app.js "
+  },
+  "author": "harshitsinghai77@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
+}
