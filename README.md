@@ -28,12 +28,5 @@ $ node app.js
 ## Dark Sky API
 For more information about the API check https://darksky.net/dev/docs
 
-## Azure Platform
-https://shadoweather.azurewebsites.net/
-
-## HerokuApp
-https://shadoweather.herokuapp.com/
-
 ## Demo
-https://shadoweather.azurewebsites.net/ <br />
-https://shadoweather.herokuapp.com/
+https://harshitsinghai77.github.io/weather-app
